@@ -1,6 +1,6 @@
 import { CoursePackage, ElectiveSubject, FacultyMember, RoutineSlot, SubjectCovered } from '../types';
 
-import aimfinityLogo from '../assets/images/aimfinity_logo_1786532731250.jpg';
+import aimfinityLogo from '../assets/images/aimfinity_logo_1786550088613.jpg';
 import facultyShubham from '../assets/images/faculty_shubham_1786532747053.jpg';
 import facultySutapa from '../assets/images/faculty_sutapa_1786532761960.jpg';
 import facultyIndrajit from '../assets/images/faculty_indrajit_1786532777129.jpg';
