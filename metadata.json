@@ -1,0 +1,6 @@
+{
+  "name": "AIMFINITY ACADEMY",
+  "description": "Official website for AIMFINITY ACADEMY featuring course packages, electives, faculty profiles, class routines, and slot booking via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
